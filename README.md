@@ -11,27 +11,18 @@ Supermium-electron is backported electron 28, you can find it here >>> https://g
 
 ## Now that you have everything you need, you can porting!
 
-### 3. Now, do what I did in that screenshot
+### 3. Now, replace the incompatible binaries with win32's supermium-electron binaries
 
 
 <p align="center">
-  <img alt="a" src="https://media.discordapp.net/attachments/721626533290180730/1198310033952350339/image.png">
+  <img alt="a" src="https://github.com/AiekDev/vscode-win7/assets/145149166/52a239ec-205e-4b0a-9f89-98124d2b39eb">
 </p>
 
-### 4. Replacing @vscode folder
-
-in VSCode version 1.85.2, the @vscode folder inside of node_modules.asar.unpacked just decided to refuse working with windows 7 & 8 for some reason, to revert this you will have to download VSCode 1.85.1 and use its @vscode folder OR you can just get it off this github page (i uploaded it here for convenience). Just follow what I do in the image:
-
-<p align="center">
-  <img alt="a" src="https://cdn.discordapp.com/attachments/721626533290180730/1198316041336533012/image.png">
-</p>
-
-### 5. That's it!
+### 4. That's it!
 
 You're done, this is what the finished product should look like
 
 <p align="center">
-  <img alt="a" src="https://media.discordapp.net/attachments/721626533290180730/1198295120869605396/image.png">
-</p>
+  <img alt="a" src="https://github.com/AiekDev/vscode-win7/assets/145149166/e654c6db-d8b5-4898-a2a9-b35049f1ab63">
 
 if this documentation is too shitty for you to understand just dm me on discord and ill help you (discord tag: aiek.)
