@@ -24,5 +24,3 @@ You're done, this is what the finished product should look like
 
 <p align="center">
   <img alt="a" src="https://github.com/AiekDev/vscode-win7/assets/145149166/e654c6db-d8b5-4898-a2a9-b35049f1ab63">
-
-if this documentation is too shitty for you to understand just dm me on discord and ill help you (discord tag: aiek.)
