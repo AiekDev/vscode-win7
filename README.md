@@ -1,6 +1,8 @@
 # Visual Studio Code - Windows 7, 8 & 8.1 backport
 This isn't really a fancy readme but I don't give a shit
 
+Join up https://discord.gg/MnfHDJMqX5
+
 ## How to remake this yourself:
 
 ### 1. Compile VSCode or get it from the official site
